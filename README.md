@@ -1,5 +1,8 @@
-# Hi there 👋
+# Hey there 👋
+<img align="https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif" width="50%" height="50%">
+### I like making stuff
 
+I'm learning 
 <!--
 **Konpy/Konpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://i.redd.it/5xlkd17vhbt41.gif)

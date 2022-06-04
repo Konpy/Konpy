@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Alt Text]([(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzc3VvI9PpZR-CN3TH1ZfRNc20fbXFe_4eA&usqp=CAU))]
+<img src="https://c.tenor.com/QYXhbGAlpNcAAAAC/pichu-slap.gif" width="40" height="40" />

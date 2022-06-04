@@ -1,6 +1,6 @@
 # Hey there 👋
-<img align="https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif" width="50%" height="50%">
-### I like making stuff
+<img align="https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif">
+## I like making stuff
 
 I'm learning 
 <!--

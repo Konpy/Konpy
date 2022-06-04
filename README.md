@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src= "https://i.redd.it/5xlkd17vhbt41.gif" />
+![Alt Text](https://i.redd.it/5xlkd17vhbt41.gif)

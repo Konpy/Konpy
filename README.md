@@ -1,5 +1,5 @@
 # Hey there 👋
-<img align="https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif">
+<img align= right src = "https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif">
 ## I like making stuff
 
 I'm learning 

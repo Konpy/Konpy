@@ -1,7 +1,7 @@
 # Hey there 👋
-<img align= right src = "https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif">
-## I like making stuff
 
+## I like making stuff
+<img align="right" src="https://c.tenor.com/rYQk6_pHlu4AAAAd/jeanne-jeanne-d-arc.gif" alt="Coder GIF" width="340" height="520">
 I'm learning 
 <!--
 **Konpy/Konpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

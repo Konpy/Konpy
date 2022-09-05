@@ -11,5 +11,3 @@ I just like making stuff really
   <li>Machine Learning</li>
 </ul>
 
-<h3>Find me at</h3>
-
